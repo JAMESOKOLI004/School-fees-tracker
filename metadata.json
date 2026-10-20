@@ -1,0 +1,6 @@
+{
+  "name": "LibraTrack",
+  "description": "Professional library management system with catalog, student loans, borrow/return, overdue fines, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
